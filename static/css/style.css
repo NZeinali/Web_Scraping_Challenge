@@ -1,0 +1,9 @@
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  color: brown;
+  font-weight: bold;
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2ce;
+}
